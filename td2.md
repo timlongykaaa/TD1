@@ -158,6 +158,7 @@ echo "rm -rf .sensible*" >> gentle_script.sh
 sha256sum gentle_script.sh >> log_sha
 ```
 ### 9.
+
 ```
 ./gentle_script.sh
 ```
