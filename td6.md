@@ -211,7 +211,7 @@ Yes, I see the revert commit
 
 ### 14. 
 
-```git reset HEAD~2```
+```git reset HEAD~ ```
 
 
 
